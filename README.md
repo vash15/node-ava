@@ -4,5 +4,5 @@
 ## Install
 
 ```
-$ npm install -g git+https://bitbucket.org/mbelluco/ava.git#master
+$ npm install -g git+ssh://bitbucket.org/mbelluco/ava.git#master
 ```
