@@ -1,5 +1,5 @@
 {
-  "name": "ava",
+  "name": "node-ava",
   "version": "1.0.0",
   "description": "Command line tool butler",
   "bin": {
